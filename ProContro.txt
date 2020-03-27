@@ -1,0 +1,25 @@
+Database pro
+ - Velocita query
+ - Se database in locale, non richiede connessione internet
+
+
+
+
+Database contro
+ - Spazio richiesto dal database ~100GB
+ - tempo di popolamento/aggiornamento database
+ - Possibili missmatch
+
+
+
+
+
+
+
+Wikipedia pro
+-Albero categorie e Pagine sempre aggiornate
+
+
+
+Wikiepedia contro
+-
